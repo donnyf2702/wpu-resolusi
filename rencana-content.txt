@@ -5,3 +5,4 @@ RENCANA CONTENT WEB "BACA MANGA KU"
 -membuat video materi cara download mangaku
 -membuat e-commerce
 -membuat profil baca mangaku
+  -laravel
