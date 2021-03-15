@@ -6,3 +6,4 @@ RENCANA CONTENT WEB "BACA MANGA KU"
   -codeigniter
 -membuat e-commerce
 -membuat profil baca mangaku
+  -laravel
