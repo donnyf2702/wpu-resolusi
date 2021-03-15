@@ -3,5 +3,6 @@ RENCANA CONTENT WEB "BACA MANGA KU"
 -membuat video materi upload "baca mangaku"
 -membuat fungsi scroll data
 -membuat video materi cara download mangaku
+  -codeigniter
 -membuat e-commerce
 -membuat profil baca mangaku
